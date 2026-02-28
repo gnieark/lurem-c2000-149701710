@@ -1,7 +1,7 @@
 # lurem-c2000-149701710
 
 
-# PROJET Déplacé ICI (repo moved there): (https://github.com/gnieark/Lurem-C2000-parts|https://github.com/gnieark/Lurem-C2000-parts)
+# PROJET Déplacé ICI (repo moved there): (https://github.com/gnieark/Lurem-C2000-parts)
 
 
 Fichiers 3D:
